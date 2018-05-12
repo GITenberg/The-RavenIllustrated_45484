@@ -1,0 +1,46 @@
+_repo: The-RavenIllustrated_45484
+_version: 0.1.0
+contributor:
+  engineer:
+    agent_name: Andrew, George T.
+    gutenberg_agent_id: '37788'
+    url: http://www.gutenberg.org/2009/agents/37788
+  illustrator:
+    agent_name: Taylor, William Ladd
+    alias: Taylor, W. L. (William Ladd)
+    birthdate: 1854
+    deathdate: 1926
+    gutenberg_agent_id: '37574'
+    url: http://www.gutenberg.org/2009/agents/37574
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Poe, Edgar Allan
+    alias: Poe, Edgar Allen
+    birthdate: 1809
+    deathdate: 1849
+    gutenberg_agent_id: '481'
+    url: http://www.gutenberg.org/2009/agents/481
+    wikipedia: http://en.wikipedia.org/wiki/Edgar_Allan_Poe
+description: One of the most famous and widely read poems, "The Raven" was first published
+  by Edgar Allan Poe in 1845. With its trademark, musical verse and repetitive language,
+  Poe's narrative poem sees a distressed lover and his mysterious avian visitor, all
+  the while building tension and dread as the poem progresses. Quoth the raven, "nevermore!"
+gutenberg_issued: '2014-04-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45484'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Fantasy poetry, American'
+- !lcsh 'Ravens -- Poetry'
+title: 'The Raven
+
+  Illustrated'
+url: http://www.gutenberg.org/ebooks/45484
