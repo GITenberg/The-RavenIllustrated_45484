@@ -28,6 +28,8 @@ description: One of the most famous and widely read poems, "The Raven" was first
   by Edgar Allan Poe in 1845. With its trademark, musical verse and repetitive language,
   Poe's narrative poem sees a distressed lover and his mysterious avian visitor, all
   the while building tension and dread as the poem progresses. Quoth the raven, "nevermore!"
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45484#The-RavenIllustrated
 gutenberg_issued: '2014-04-24'
 gutenberg_type: Text
 identifiers:
